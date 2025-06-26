@@ -34,12 +34,26 @@ $ docker-compose -f docker-compose-postgres.yml up -d
 # Host
 $ localhost
 
-# Porta
-$ 5432
-
 # Usuário
 $ postgres
 
 # Senha
 $ postgres*
+
+# Porta
+$ 5432
 ```
+
+ <br> 
+ 
+## ⚠️ Observação
+
+<div align="left">
+  Caso deseje modificar alguma variável de ambiente, basta alterá-la diretamente no arquivo após o download.
+</div>
+
+ <br> 
+ 
+## 🖥️ Desenvolvedor:
+
+### 📝 LinkedIn: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
