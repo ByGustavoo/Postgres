@@ -13,7 +13,7 @@
 
 * 🐳 Docker
 
-* 🐘 Postgres 15
+* 🐘 Postgres
 
 
  <br> 
