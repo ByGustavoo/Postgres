@@ -54,6 +54,6 @@ $ 5432
 
  <br> 
  
-## 🖥️ Desenvolvedor:
+## 🖥️ Desenvolvedor
 
-### 📝 LinkedIn: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
+### 🔵 LinkedIn: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
